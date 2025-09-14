@@ -1,4 +1,6 @@
 # A-boring-thing
+右边release第一个标签下载
+
 wasd移动 空格跳跃 鼠标移动视角
 J红色穿透球 K绿色穿透球 L碰撞冰球
 得分机制：
